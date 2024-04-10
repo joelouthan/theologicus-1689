@@ -4,8 +4,6 @@
 
 ## Table of Contents
 
-## Table of Contents
-
 <!-- toc -->
 
 ## [Introduction & Resources](1689-00-intro.md)
